@@ -24,7 +24,7 @@ function renderMenu(category) {
 }// Menu data
 const menuData = {
     populares: [
-        { id: 1, name: 'Charsiu', desc: 'Chaufa con pancesta de cerdo', price: 28, img: 'charsiu.jpg', emoji: '🍜' },
+        { id: 1, name: 'Charsiu', desc: 'Chaufa con panceta de cerdo', price: 28, img: 'charsiu.jpg', emoji: '🍜' },
         { id: 2, name: 'Encurtidos', desc: 'Vinagre, sal y especias selectas', price: 25, img: 'encurtidos.jpg', emoji: '🍚' },
         { id: 3, name: 'Pollo Chi Jau Kay', desc: 'Pollo crocante con salsa especial', price: 32, img: 'frejolito.jpg', emoji: '🍗' },
         { id: 4, name: 'Wantan Frito', desc: 'Con salsa tamarindo', price: 22, img: 'wantan.jpg', emoji: '🥟' }
